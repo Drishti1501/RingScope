@@ -1,0 +1,375 @@
+candidate_id,account_count,cycle_count,internal_transaction_count,internal_transaction_value,total_outgoing_value,total_incoming_value,fraud_account_count,fraud_rate,candidate_category
+11,44,45,140,35993.64,667411.67,626423.16,21,47.73,Large multi-cycle candidate
+5,36,35,82,23588.43,459926.31,450964.56,12,33.33,Large multi-cycle candidate
+90,8,6,18,5196.11,123222.44,157781.18,4,50.0,Large multi-cycle candidate
+2,6,6,35,3238.3,10045.5,18227.72,6,100.0,Large multi-cycle candidate
+14,5,6,27,3142.4,17557.42,10154.6,5,100.0,Large multi-cycle candidate
+133,5,4,30,3644.57,15194.05,10055.73,5,100.0,Small multi-cycle candidate
+141,6,4,11,3222.03,120213.11,107795.13,3,50.0,Small multi-cycle candidate
+36,6,4,14,3097.15,77287.39,78405.34,5,83.33,Small multi-cycle candidate
+120,6,4,9,2849.74,93873.99,107201.21,2,33.33,Small multi-cycle candidate
+161,6,4,9,2843.87,124313.0,125473.61,3,50.0,Small multi-cycle candidate
+216,6,4,9,2354.4,103063.85,97892.7,3,50.0,Small multi-cycle candidate
+147,5,3,25,3125.71,9389.03,21689.72,5,100.0,Small multi-cycle candidate
+71,5,3,26,2574.62,11293.92,22199.52,5,100.0,Small multi-cycle candidate
+65,5,3,7,2186.4,56539.07,67619.86,2,40.0,Small multi-cycle candidate
+242,4,3,19,2163.49,8850.78,19210.01,4,100.0,Small multi-cycle candidate
+86,5,3,7,2116.29,67135.1,57863.8,2,40.0,Small multi-cycle candidate
+144,5,3,27,1955.38,14677.06,13364.3,5,100.0,Small multi-cycle candidate
+79,5,3,24,1825.37,10810.17,10812.29,5,100.0,Small multi-cycle candidate
+76,5,3,20,1128.75,8295.28,16573.06,5,100.0,Small multi-cycle candidate
+159,4,2,20,2582.59,12362.36,7649.28,4,100.0,Small multi-cycle candidate
+46,4,2,16,2487.39,6506.44,6059.12,4,100.0,Small multi-cycle candidate
+292,4,2,17,2282.42,81664.61,67024.82,4,100.0,Small multi-cycle candidate
+40,4,2,20,2214.36,5859.48,8794.89,4,100.0,Small multi-cycle candidate
+92,4,2,14,2119.2,14210.53,8420.87,4,100.0,Small multi-cycle candidate
+149,4,2,15,2115.53,80011.46,58270.24,4,100.0,Small multi-cycle candidate
+43,4,2,7,1877.79,13316.12,12018.29,4,100.0,Small multi-cycle candidate
+300,4,2,6,1868.59,95755.88,83892.61,2,50.0,Small multi-cycle candidate
+48,4,2,10,1857.53,11207.19,4027.93,4,100.0,Small multi-cycle candidate
+24,4,2,8,1853.55,12616.25,14014.52,4,100.0,Small multi-cycle candidate
+21,4,2,16,1835.08,5931.83,6535.51,4,100.0,Small multi-cycle candidate
+260,4,2,6,1811.67,68136.67,61717.62,1,25.0,Small multi-cycle candidate
+64,4,2,5,1734.85,100048.28,97049.98,3,75.0,Small multi-cycle candidate
+85,4,2,13,1694.09,6260.74,10571.58,4,100.0,Small multi-cycle candidate
+53,4,2,21,1647.02,8543.73,9844.85,4,100.0,Small multi-cycle candidate
+183,4,2,19,1631.17,6885.13,9072.18,4,100.0,Small multi-cycle candidate
+26,4,2,5,1622.42,58897.99,72354.13,2,50.0,Small multi-cycle candidate
+49,4,2,5,1590.62,45861.74,35205.75,1,25.0,Small multi-cycle candidate
+319,4,2,15,1567.4,5369.7,4714.37,4,100.0,Small multi-cycle candidate
+70,4,2,20,1555.56,42343.02,37436.49,4,100.0,Small multi-cycle candidate
+207,4,2,5,1527.15,44512.48,49132.89,2,50.0,Small multi-cycle candidate
+109,4,2,15,1494.99,11320.65,8621.92,4,100.0,Small multi-cycle candidate
+13,4,2,13,1426.3,6548.89,9016.43,4,100.0,Small multi-cycle candidate
+66,4,2,5,1374.06,63112.22,76756.38,4,100.0,Small multi-cycle candidate
+47,4,2,15,1362.41,4663.69,21919.48,4,100.0,Small multi-cycle candidate
+104,4,2,20,1357.6,39226.33,39227.57,4,100.0,Small multi-cycle candidate
+263,4,2,5,1351.06,9475.19,11568.91,1,25.0,Small multi-cycle candidate
+226,4,2,5,1343.91,37999.73,39017.57,1,25.0,Small multi-cycle candidate
+116,4,2,14,1331.19,9866.02,9568.71,4,100.0,Small multi-cycle candidate
+105,4,2,18,1294.57,12594.64,8809.15,4,100.0,Small multi-cycle candidate
+312,4,2,5,1283.73,65649.27,56637.0,3,75.0,Small multi-cycle candidate
+208,4,2,5,1237.0,59658.37,69796.33,2,50.0,Small multi-cycle candidate
+127,4,2,20,1236.38,8079.59,14045.4,4,100.0,Small multi-cycle candidate
+199,4,2,11,1210.3,6344.06,4985.44,4,100.0,Small multi-cycle candidate
+125,4,2,10,1175.85,57864.27,60555.16,3,75.0,Small multi-cycle candidate
+136,4,2,14,1157.85,5807.09,19761.51,4,100.0,Small multi-cycle candidate
+19,4,2,17,1109.21,10924.2,10331.24,4,100.0,Small multi-cycle candidate
+187,4,2,11,1055.16,3805.81,4889.32,4,100.0,Small multi-cycle candidate
+97,4,2,7,1050.02,8541.0,7329.02,4,100.0,Small multi-cycle candidate
+8,4,2,5,1001.92,33168.56,41790.39,2,50.0,Small multi-cycle candidate
+3,4,2,18,919.75,5422.55,12079.03,4,100.0,Small multi-cycle candidate
+172,4,2,9,895.32,8045.8,9689.28,3,75.0,Small multi-cycle candidate
+4,4,2,5,881.04,69808.3,56890.36,2,50.0,Small multi-cycle candidate
+198,4,2,14,855.64,6547.99,7277.37,4,100.0,Small multi-cycle candidate
+175,4,2,13,840.72,69123.09,50951.14,4,100.0,Small multi-cycle candidate
+185,4,2,16,746.16,2952.09,15445.61,4,100.0,Small multi-cycle candidate
+139,4,2,14,611.79,6727.12,8675.04,4,100.0,Small multi-cycle candidate
+10,3,1,14,1992.86,6737.58,4452.31,3,100.0,Single-cycle candidate
+84,3,1,4,1800.37,9288.15,6650.24,3,100.0,Single-cycle candidate
+252,3,1,4,1788.45,10112.17,5308.65,3,100.0,Single-cycle candidate
+173,3,1,5,1771.07,137810.92,100502.95,2,66.67,Single-cycle candidate
+93,3,1,4,1693.05,5609.98,5880.75,3,100.0,Single-cycle candidate
+244,3,1,4,1651.97,9482.22,6037.5,3,100.0,Single-cycle candidate
+344,3,1,5,1626.0,62569.46,50451.09,3,100.0,Single-cycle candidate
+227,3,1,4,1607.78,74709.03,57304.36,1,33.33,Single-cycle candidate
+69,3,1,8,1602.05,13339.47,7159.18,3,100.0,Single-cycle candidate
+237,3,1,4,1585.14,42555.49,35920.6,1,33.33,Single-cycle candidate
+235,3,1,4,1575.78,70758.62,54749.15,1,33.33,Single-cycle candidate
+148,3,1,4,1536.35,7299.33,6410.35,3,100.0,Single-cycle candidate
+177,3,1,4,1504.51,62738.53,50688.53,1,33.33,Single-cycle candidate
+373,3,1,4,1487.38,72962.96,54710.96,1,33.33,Single-cycle candidate
+164,3,1,4,1483.41,77951.13,56991.1,3,100.0,Single-cycle candidate
+308,3,1,5,1467.45,39329.05,34853.34,1,33.33,Single-cycle candidate
+353,3,1,9,1450.81,8418.85,4969.38,3,100.0,Single-cycle candidate
+331,3,1,4,1436.2,72744.59,60931.86,2,66.67,Single-cycle candidate
+12,3,1,13,1435.75,5457.96,4224.85,3,100.0,Single-cycle candidate
+110,3,1,4,1429.44,40213.55,33178.53,1,33.33,Single-cycle candidate
+57,3,1,3,1427.8,49562.54,41383.85,2,66.67,Single-cycle candidate
+167,3,1,4,1415.37,73049.89,63882.78,2,66.67,Single-cycle candidate
+45,3,1,3,1401.93,11465.62,8883.99,1,33.33,Single-cycle candidate
+276,3,1,4,1398.64,36404.12,34646.7,1,33.33,Single-cycle candidate
+369,3,1,4,1396.26,72091.64,50800.18,2,66.67,Single-cycle candidate
+155,3,1,4,1393.94,7742.42,6978.08,3,100.0,Single-cycle candidate
+181,3,1,4,1391.15,103062.28,67472.54,2,66.67,Single-cycle candidate
+145,3,1,7,1389.37,9347.22,10721.68,3,100.0,Single-cycle candidate
+22,3,1,4,1374.67,69591.62,58578.36,3,100.0,Single-cycle candidate
+267,3,1,3,1355.74,11916.54,6929.96,1,33.33,Single-cycle candidate
+326,3,1,4,1337.38,7323.61,6785.26,3,100.0,Single-cycle candidate
+180,3,1,3,1333.14,44885.17,24271.69,0,0.0,Single-cycle candidate
+348,3,1,4,1332.84,68778.05,52564.06,2,66.67,Single-cycle candidate
+256,3,1,4,1329.17,67609.67,52949.09,1,33.33,Single-cycle candidate
+72,3,1,12,1316.8,7354.2,24037.38,3,100.0,Single-cycle candidate
+102,3,1,4,1311.8,44453.31,43341.02,1,33.33,Single-cycle candidate
+89,3,1,4,1300.35,38843.09,27953.08,1,33.33,Single-cycle candidate
+158,3,1,4,1293.15,4537.89,4427.75,3,100.0,Single-cycle candidate
+296,3,1,4,1289.45,6723.08,6579.61,3,100.0,Single-cycle candidate
+359,3,1,6,1287.62,5614.46,6008.78,3,100.0,Single-cycle candidate
+272,3,1,7,1287.04,7510.7,7595.31,3,100.0,Single-cycle candidate
+224,3,1,4,1260.95,70312.54,54960.33,1,33.33,Single-cycle candidate
+138,3,1,5,1233.65,46701.42,36246.65,2,66.67,Single-cycle candidate
+355,3,1,3,1226.62,14113.19,6851.29,2,66.67,Single-cycle candidate
+182,3,1,4,1223.66,37212.23,38137.46,1,33.33,Single-cycle candidate
+34,3,1,3,1208.91,84136.61,49923.02,2,66.67,Single-cycle candidate
+311,3,1,3,1207.94,7538.39,10688.83,0,0.0,Single-cycle candidate
+288,3,1,3,1202.18,11843.99,5561.35,0,0.0,Single-cycle candidate
+347,3,1,3,1201.7,43190.64,21426.89,1,33.33,Single-cycle candidate
+257,3,1,4,1200.33,3512.33,5671.78,3,100.0,Single-cycle candidate
+28,3,1,4,1195.77,37449.06,35352.05,1,33.33,Single-cycle candidate
+349,3,1,4,1192.09,124083.54,82871.0,2,66.67,Single-cycle candidate
+360,3,1,12,1189.78,3341.12,5299.46,3,100.0,Single-cycle candidate
+230,3,1,3,1187.05,12303.48,5487.01,0,0.0,Single-cycle candidate
+214,3,1,4,1178.4,63803.73,65013.17,2,66.67,Single-cycle candidate
+303,3,1,4,1177.33,62569.01,55914.95,2,66.67,Single-cycle candidate
+131,3,1,3,1172.0,7189.91,7077.35,0,0.0,Single-cycle candidate
+366,3,1,9,1163.25,35277.51,33098.65,3,100.0,Single-cycle candidate
+298,3,1,3,1162.32,9830.45,5504.54,0,0.0,Single-cycle candidate
+162,3,1,13,1157.16,10087.31,5713.52,3,100.0,Single-cycle candidate
+282,3,1,3,1153.23,7987.05,7814.81,0,0.0,Single-cycle candidate
+6,3,1,4,1150.31,61811.48,51025.94,1,33.33,Single-cycle candidate
+266,3,1,3,1141.43,8361.46,6660.46,0,0.0,Single-cycle candidate
+37,3,1,3,1139.54,9084.57,6479.83,0,0.0,Single-cycle candidate
+54,3,1,3,1137.07,63111.01,69841.17,1,33.33,Single-cycle candidate
+132,3,1,3,1132.31,10888.64,5154.53,1,33.33,Single-cycle candidate
+367,3,1,4,1127.06,4532.39,3526.38,3,100.0,Single-cycle candidate
+42,3,1,3,1126.24,42310.66,35832.03,1,33.33,Single-cycle candidate
+287,3,1,3,1125.01,5595.48,16329.69,0,0.0,Single-cycle candidate
+323,3,1,3,1121.86,11586.76,8805.83,0,0.0,Single-cycle candidate
+101,3,1,3,1121.72,45543.08,34409.47,1,33.33,Single-cycle candidate
+310,3,1,3,1121.07,6400.49,3092.49,1,33.33,Single-cycle candidate
+41,3,1,3,1121.03,76232.08,40040.61,1,33.33,Single-cycle candidate
+151,3,1,3,1119.63,59653.43,67340.43,2,66.67,Single-cycle candidate
+302,3,1,4,1116.6,57421.26,49530.93,1,33.33,Single-cycle candidate
+304,3,1,4,1113.37,55915.98,54232.56,2,66.67,Single-cycle candidate
+134,3,1,3,1112.56,77473.16,40680.12,1,33.33,Single-cycle candidate
+363,3,1,3,1111.42,78762.17,51250.49,2,66.67,Single-cycle candidate
+51,3,1,8,1110.06,37303.35,34708.34,3,100.0,Single-cycle candidate
+163,3,1,4,1108.21,56415.66,48758.83,1,33.33,Single-cycle candidate
+234,3,1,3,1107.87,137821.64,84586.35,2,66.67,Single-cycle candidate
+31,3,1,8,1107.66,8370.1,7432.19,3,100.0,Single-cycle candidate
+156,3,1,3,1104.39,8632.32,5530.28,0,0.0,Single-cycle candidate
+334,3,1,9,1103.92,4765.06,3242.02,3,100.0,Single-cycle candidate
+281,3,1,8,1100.78,8987.12,15388.77,2,66.67,Single-cycle candidate
+178,3,1,4,1093.15,75704.36,84767.82,1,33.33,Single-cycle candidate
+169,3,1,3,1088.72,10431.14,17621.3,1,33.33,Single-cycle candidate
+98,3,1,3,1084.97,41149.51,21129.27,0,0.0,Single-cycle candidate
+62,3,1,3,1084.28,7143.1,4993.84,1,33.33,Single-cycle candidate
+259,3,1,3,1080.38,79707.16,72432.02,3,100.0,Single-cycle candidate
+194,3,1,3,1078.34,6941.4,7307.63,0,0.0,Single-cycle candidate
+295,3,1,3,1075.44,69867.41,49914.41,1,33.33,Single-cycle candidate
+342,3,1,3,1071.61,37939.15,30869.22,1,33.33,Single-cycle candidate
+60,3,1,3,1071.0,11103.16,6376.8,1,33.33,Single-cycle candidate
+332,3,1,4,1068.8,25685.16,35644.01,0,0.0,Single-cycle candidate
+220,3,1,3,1068.08,59495.5,47191.74,1,33.33,Single-cycle candidate
+315,3,1,3,1064.68,30252.68,30878.71,1,33.33,Single-cycle candidate
+225,3,1,3,1060.65,45535.35,33950.53,1,33.33,Single-cycle candidate
+135,3,1,3,1060.17,5603.65,30352.19,1,33.33,Single-cycle candidate
+271,3,1,4,1057.78,58647.41,60571.34,2,66.67,Single-cycle candidate
+103,3,1,3,1057.77,34707.3,34810.19,2,66.67,Single-cycle candidate
+239,3,1,3,1054.36,43805.85,38692.13,1,33.33,Single-cycle candidate
+142,3,1,3,1053.68,6110.64,4406.11,0,0.0,Single-cycle candidate
+293,3,1,3,1053.28,40749.43,41333.57,2,66.67,Single-cycle candidate
+205,3,1,3,1052.41,39775.31,41927.2,1,33.33,Single-cycle candidate
+44,3,1,4,1044.08,55803.26,51509.35,1,33.33,Single-cycle candidate
+299,3,1,4,1043.85,39527.66,35890.08,2,66.67,Single-cycle candidate
+286,3,1,3,1043.83,75387.02,40404.05,1,33.33,Single-cycle candidate
+75,3,1,4,1043.43,61238.4,64276.47,2,66.67,Single-cycle candidate
+368,3,1,3,1041.81,33122.99,48460.05,1,33.33,Single-cycle candidate
+154,3,1,4,1041.64,36730.03,36366.84,1,33.33,Single-cycle candidate
+283,3,1,3,1039.81,39344.52,26917.69,1,33.33,Single-cycle candidate
+250,3,1,13,1037.59,6188.43,4980.5,3,100.0,Single-cycle candidate
+83,3,1,9,1034.69,35278.92,22062.2,3,100.0,Single-cycle candidate
+119,3,1,3,1023.11,36486.78,25421.05,1,33.33,Single-cycle candidate
+253,3,1,3,1021.78,76356.8,53988.94,2,66.67,Single-cycle candidate
+327,3,1,3,1018.16,25662.74,51237.9,1,33.33,Single-cycle candidate
+112,3,1,4,1017.64,56051.92,48304.7,1,33.33,Single-cycle candidate
+121,3,1,4,1017.35,5710.63,6269.02,3,100.0,Single-cycle candidate
+80,3,1,3,1014.73,76814.38,39458.5,1,33.33,Single-cycle candidate
+82,3,1,3,1013.38,42344.43,34568.44,1,33.33,Single-cycle candidate
+128,3,1,3,1006.62,48179.48,21389.51,1,33.33,Single-cycle candidate
+201,3,1,4,1002.63,4159.42,3981.06,3,100.0,Single-cycle candidate
+278,3,1,3,1002.27,40953.47,24198.97,1,33.33,Single-cycle candidate
+223,3,1,3,1001.56,5450.2,2951.68,0,0.0,Single-cycle candidate
+285,3,1,3,1000.36,8723.7,9470.45,0,0.0,Single-cycle candidate
+371,3,1,3,995.88,44086.83,36095.17,1,33.33,Single-cycle candidate
+284,3,1,3,991.39,9299.54,18043.04,0,0.0,Single-cycle candidate
+228,3,1,5,990.98,25805.18,35942.87,3,100.0,Single-cycle candidate
+124,3,1,4,988.61,56445.7,50706.14,1,33.33,Single-cycle candidate
+294,3,1,3,988.48,27961.58,30233.97,0,0.0,Single-cycle candidate
+297,3,1,4,986.63,62986.04,68208.52,2,66.67,Single-cycle candidate
+160,3,1,3,983.25,67497.36,59705.41,2,66.67,Single-cycle candidate
+153,3,1,3,980.67,42065.85,41735.0,3,100.0,Single-cycle candidate
+115,3,1,3,980.39,61885.65,59439.92,2,66.67,Single-cycle candidate
+35,3,1,3,979.97,77121.18,56507.72,2,66.67,Single-cycle candidate
+338,3,1,3,976.46,66248.36,56783.47,2,66.67,Single-cycle candidate
+277,3,1,3,975.28,46073.83,38360.04,1,33.33,Single-cycle candidate
+346,3,1,7,968.81,8427.44,4619.5,3,100.0,Single-cycle candidate
+231,3,1,3,966.3,74720.23,39213.31,1,33.33,Single-cycle candidate
+77,3,1,3,963.8,5766.4,3039.23,0,0.0,Single-cycle candidate
+61,3,1,3,961.4,77193.27,45422.19,1,33.33,Single-cycle candidate
+122,3,1,3,961.09,40152.02,43442.7,1,33.33,Single-cycle candidate
+166,3,1,4,960.03,24677.08,33869.34,1,33.33,Single-cycle candidate
+87,3,1,3,956.6,29806.06,47024.29,1,33.33,Single-cycle candidate
+195,3,1,3,955.76,8760.1,22307.39,0,0.0,Single-cycle candidate
+309,3,1,3,951.35,40153.17,31063.98,1,33.33,Single-cycle candidate
+27,3,1,3,950.36,39977.18,28960.19,0,0.0,Single-cycle candidate
+20,3,1,3,946.34,9085.44,8591.59,0,0.0,Single-cycle candidate
+316,3,1,3,945.04,39120.97,30933.02,1,33.33,Single-cycle candidate
+236,3,1,3,942.43,26357.85,28816.25,0,0.0,Single-cycle candidate
+222,3,1,3,940.56,33803.63,48018.84,1,33.33,Single-cycle candidate
+114,3,1,3,938.14,28686.21,38730.62,0,0.0,Single-cycle candidate
+38,3,1,3,937.89,36787.05,28103.27,1,33.33,Single-cycle candidate
+210,3,1,3,936.64,31089.18,38025.98,2,66.67,Single-cycle candidate
+7,3,1,3,935.41,75347.0,40574.27,1,33.33,Single-cycle candidate
+152,3,1,3,934.95,62253.46,53809.09,1,33.33,Single-cycle candidate
+340,3,1,10,933.24,4939.19,9559.22,3,100.0,Single-cycle candidate
+328,3,1,4,933.16,75962.63,81721.39,1,33.33,Single-cycle candidate
+184,3,1,3,928.44,29509.65,29746.47,0,0.0,Single-cycle candidate
+39,3,1,3,927.68,106968.67,55884.66,2,66.67,Single-cycle candidate
+126,3,1,3,927.61,4957.09,5432.69,3,100.0,Single-cycle candidate
+59,3,1,3,924.67,5200.21,5341.38,0,0.0,Single-cycle candidate
+107,3,1,3,919.8,36976.2,40005.52,0,0.0,Single-cycle candidate
+123,3,1,3,919.65,76144.72,62870.28,2,66.67,Single-cycle candidate
+219,3,1,3,912.51,30619.11,31196.77,0,0.0,Single-cycle candidate
+329,3,1,3,909.71,26887.63,38269.09,0,0.0,Single-cycle candidate
+140,3,1,3,909.67,41883.37,22771.48,1,33.33,Single-cycle candidate
+129,3,1,11,902.85,3269.16,3862.04,3,100.0,Single-cycle candidate
+361,3,1,3,902.71,110409.07,64312.3,2,66.67,Single-cycle candidate
+280,3,1,3,902.08,66392.92,54924.09,2,66.67,Single-cycle candidate
+318,3,1,3,901.83,32511.82,36502.47,0,0.0,Single-cycle candidate
+191,3,1,3,898.48,58328.01,53421.51,2,66.67,Single-cycle candidate
+106,3,1,9,897.51,5961.34,7816.46,3,100.0,Single-cycle candidate
+262,3,1,3,891.53,71569.51,53443.64,3,100.0,Single-cycle candidate
+233,3,1,12,880.62,3703.64,18028.37,3,100.0,Single-cycle candidate
+258,3,1,3,879.04,64294.58,66726.9,2,66.67,Single-cycle candidate
+254,3,1,4,877.83,35012.7,28841.13,1,33.33,Single-cycle candidate
+96,3,1,3,876.37,42362.94,42023.44,2,66.67,Single-cycle candidate
+73,3,1,6,875.63,5306.53,6110.84,3,100.0,Single-cycle candidate
+188,3,1,3,855.16,17086.88,16744.92,0,0.0,Single-cycle candidate
+213,3,1,3,853.16,100899.0,65038.99,1,33.33,Single-cycle candidate
+352,3,1,3,851.64,38321.72,28186.85,1,33.33,Single-cycle candidate
+29,3,1,11,850.1,56205.67,48305.79,3,100.0,Single-cycle candidate
+74,3,1,3,848.87,9730.02,5299.62,0,0.0,Single-cycle candidate
+200,3,1,3,846.31,39839.99,48953.67,1,33.33,Single-cycle candidate
+324,3,1,3,845.46,53526.83,53062.76,2,66.67,Single-cycle candidate
+240,3,1,8,842.56,3639.98,15972.43,3,100.0,Single-cycle candidate
+341,3,1,9,835.72,5857.1,9198.16,3,100.0,Single-cycle candidate
+143,3,1,3,835.67,9904.95,9163.83,1,33.33,Single-cycle candidate
+196,3,1,3,827.88,39397.33,42805.85,1,33.33,Single-cycle candidate
+217,3,1,3,818.08,43928.14,20628.14,1,33.33,Single-cycle candidate
+317,3,1,3,817.54,8570.55,10610.87,1,33.33,Single-cycle candidate
+241,3,1,3,813.84,36514.69,34082.95,1,33.33,Single-cycle candidate
+52,3,1,3,812.3,28209.3,41435.58,1,33.33,Single-cycle candidate
+279,3,1,3,808.32,6775.0,5609.6,0,0.0,Single-cycle candidate
+33,3,1,3,805.4,5729.16,4421.21,0,0.0,Single-cycle candidate
+322,3,1,3,803.99,24974.69,56052.41,2,66.67,Single-cycle candidate
+305,3,1,4,801.67,6391.82,5961.23,3,100.0,Single-cycle candidate
+157,3,1,4,793.37,24223.62,35273.22,1,33.33,Single-cycle candidate
+307,3,1,5,790.04,5289.04,5948.58,3,100.0,Single-cycle candidate
+186,3,1,8,788.18,9621.29,9455.58,2,66.67,Single-cycle candidate
+255,3,1,4,785.99,3189.3,5624.84,3,100.0,Single-cycle candidate
+356,3,1,3,785.88,67114.58,64680.03,1,33.33,Single-cycle candidate
+81,3,1,3,784.24,52814.47,66994.71,0,0.0,Single-cycle candidate
+94,3,1,11,782.61,5815.1,8111.17,3,100.0,Single-cycle candidate
+343,3,1,3,782.4,68879.54,62158.73,1,33.33,Single-cycle candidate
+168,3,1,5,776.37,3530.38,5401.23,3,100.0,Single-cycle candidate
+17,3,1,13,774.22,11017.12,7831.24,3,100.0,Single-cycle candidate
+350,3,1,3,769.86,10087.25,9264.28,0,0.0,Single-cycle candidate
+345,3,1,3,768.75,43767.05,37669.12,1,33.33,Single-cycle candidate
+1,3,1,3,766.7,36775.88,34081.05,1,33.33,Single-cycle candidate
+212,3,1,6,764.62,6834.5,6036.47,3,100.0,Single-cycle candidate
+130,3,1,3,763.8,61684.43,67809.2,1,33.33,Single-cycle candidate
+289,3,1,4,763.33,5748.09,3978.54,3,100.0,Single-cycle candidate
+215,3,1,3,761.96,3950.83,4113.59,3,100.0,Single-cycle candidate
+264,3,1,3,760.53,7349.18,4362.42,0,0.0,Single-cycle candidate
+99,3,1,3,756.0,2998.38,4064.5,0,0.0,Single-cycle candidate
+63,3,1,3,754.05,5526.19,3998.51,0,0.0,Single-cycle candidate
+354,3,1,3,752.25,41134.29,39299.9,1,33.33,Single-cycle candidate
+291,3,1,3,750.08,31771.02,38665.36,1,33.33,Single-cycle candidate
+325,3,1,8,748.55,6611.11,11668.49,3,100.0,Single-cycle candidate
+55,3,1,7,746.94,7567.68,11277.79,3,100.0,Single-cycle candidate
+269,3,1,4,744.09,3266.39,5520.17,3,100.0,Single-cycle candidate
+358,3,1,3,737.08,3453.83,7592.73,0,0.0,Single-cycle candidate
+137,3,1,11,736.45,6454.31,13942.53,3,100.0,Single-cycle candidate
+374,3,1,3,732.89,31011.49,31439.95,1,33.33,Single-cycle candidate
+273,3,1,9,729.6,5050.03,5864.87,3,100.0,Single-cycle candidate
+16,3,1,3,728.36,36443.11,35828.92,1,33.33,Single-cycle candidate
+275,3,1,3,727.54,14741.56,11506.96,1,33.33,Single-cycle candidate
+150,3,1,3,719.84,4442.28,3796.89,0,0.0,Single-cycle candidate
+268,3,1,3,715.1,7816.85,9242.62,1,33.33,Single-cycle candidate
+265,3,1,3,714.99,26876.36,29098.72,0,0.0,Single-cycle candidate
+23,3,1,3,712.24,72453.31,39143.9,2,66.67,Single-cycle candidate
+111,3,1,7,706.93,31566.23,42235.06,3,100.0,Single-cycle candidate
+100,3,1,3,704.49,25555.68,29524.06,0,0.0,Single-cycle candidate
+25,3,1,3,704.21,27676.01,48363.84,1,33.33,Single-cycle candidate
+357,3,1,3,703.55,7257.36,9137.21,1,33.33,Single-cycle candidate
+249,3,1,3,701.72,3772.25,3879.8,0,0.0,Single-cycle candidate
+50,3,1,3,701.65,5534.46,8591.47,1,33.33,Single-cycle candidate
+189,3,1,3,700.93,23992.05,36389.3,0,0.0,Single-cycle candidate
+246,3,1,3,700.56,36112.49,27687.1,1,33.33,Single-cycle candidate
+221,3,1,3,700.14,42492.71,34007.01,3,100.0,Single-cycle candidate
+232,3,1,3,698.6,7533.06,8830.99,0,0.0,Single-cycle candidate
+18,3,1,3,696.62,40111.47,36150.58,1,33.33,Single-cycle candidate
+270,3,1,3,683.81,28270.75,34715.25,1,33.33,Single-cycle candidate
+174,3,1,3,683.12,28395.21,40940.84,1,33.33,Single-cycle candidate
+339,3,1,3,680.57,30931.0,31517.37,1,33.33,Single-cycle candidate
+206,3,1,3,671.33,9219.37,9892.41,1,33.33,Single-cycle candidate
+306,3,1,3,670.53,5005.51,7650.79,3,100.0,Single-cycle candidate
+248,3,1,3,669.11,24461.45,46421.97,1,33.33,Single-cycle candidate
+202,3,1,3,667.92,34451.94,29359.15,1,33.33,Single-cycle candidate
+211,3,1,3,664.15,5621.91,5941.23,0,0.0,Single-cycle candidate
+337,3,1,3,657.8,30328.6,42547.18,2,66.67,Single-cycle candidate
+364,3,1,12,656.88,4219.77,6576.69,3,100.0,Single-cycle candidate
+243,3,1,3,650.54,31256.09,31172.41,1,33.33,Single-cycle candidate
+320,3,1,11,649.2,8401.08,10059.97,3,100.0,Single-cycle candidate
+261,3,1,3,646.51,35923.59,40334.02,2,66.67,Single-cycle candidate
+176,3,1,3,644.48,3575.0,2734.84,2,66.67,Single-cycle candidate
+91,3,1,3,638.82,30410.39,33775.28,1,33.33,Single-cycle candidate
+335,3,1,3,636.05,49128.76,59117.11,1,33.33,Single-cycle candidate
+78,3,1,3,635.36,5509.25,7244.95,0,0.0,Single-cycle candidate
+58,3,1,3,633.35,39325.4,29167.22,2,66.67,Single-cycle candidate
+333,3,1,3,632.89,26879.29,40269.46,1,33.33,Single-cycle candidate
+372,3,1,3,625.78,74334.99,41358.6,2,66.67,Single-cycle candidate
+204,3,1,3,625.66,3153.99,3575.24,0,0.0,Single-cycle candidate
+56,3,1,3,617.67,71268.23,38950.92,1,33.33,Single-cycle candidate
+117,3,1,3,613.23,3903.09,3303.09,2,66.67,Single-cycle candidate
+88,3,1,7,606.4,7669.92,6006.66,3,100.0,Single-cycle candidate
+193,3,1,3,606.3,42264.17,54061.63,0,0.0,Single-cycle candidate
+330,3,1,3,593.54,25628.19,35575.82,0,0.0,Single-cycle candidate
+313,3,1,3,589.79,8024.29,9364.18,0,0.0,Single-cycle candidate
+351,3,1,3,588.5,3776.07,3384.38,0,0.0,Single-cycle candidate
+192,3,1,5,571.76,3515.17,5681.92,3,100.0,Single-cycle candidate
+290,3,1,3,568.76,23692.09,28092.36,1,33.33,Single-cycle candidate
+238,3,1,8,568.37,2460.55,2627.27,3,100.0,Single-cycle candidate
+245,3,1,3,563.74,3700.62,17841.03,1,33.33,Single-cycle candidate
+165,3,1,5,563.54,3493.72,4019.97,3,100.0,Single-cycle candidate
+108,3,1,3,550.28,3967.16,4195.17,0,0.0,Single-cycle candidate
+362,3,1,3,543.63,25049.09,39750.04,0,0.0,Single-cycle candidate
+365,3,1,16,528.95,3272.62,5383.22,3,100.0,Single-cycle candidate
+170,3,1,9,528.43,5970.57,15273.35,3,100.0,Single-cycle candidate
+203,3,1,3,526.04,24771.24,36941.28,1,33.33,Single-cycle candidate
+68,3,1,10,524.47,6112.37,9022.57,3,100.0,Single-cycle candidate
+67,3,1,3,517.18,4318.04,9927.19,0,0.0,Single-cycle candidate
+370,3,1,3,512.03,24755.57,34699.85,0,0.0,Single-cycle candidate
+301,3,1,3,510.03,6409.18,7878.07,0,0.0,Single-cycle candidate
+251,3,1,3,507.15,2931.43,3494.84,0,0.0,Single-cycle candidate
+146,3,1,10,494.6,4725.39,4300.14,3,100.0,Single-cycle candidate
+229,3,1,3,492.26,3036.96,6825.46,2,66.67,Single-cycle candidate
+274,3,1,7,490.6,8240.2,18098.19,3,100.0,Single-cycle candidate
+118,3,1,10,484.88,5646.29,12748.88,3,100.0,Single-cycle candidate
+15,3,1,4,483.05,5117.43,8191.07,3,100.0,Single-cycle candidate
+197,3,1,10,459.91,3445.27,14727.77,3,100.0,Single-cycle candidate
+190,3,1,11,452.75,8086.99,8137.03,3,100.0,Single-cycle candidate
+218,3,1,3,452.03,23853.09,39943.5,1,33.33,Single-cycle candidate
+30,3,1,7,447.36,5147.04,4915.54,3,100.0,Single-cycle candidate
+336,3,1,3,433.27,21967.99,42973.9,2,66.67,Single-cycle candidate
+247,3,1,3,397.24,3242.9,5502.49,0,0.0,Single-cycle candidate
+32,3,1,4,386.47,4632.38,6730.94,3,100.0,Single-cycle candidate
+171,3,1,3,383.08,4155.42,10136.22,0,0.0,Single-cycle candidate
+179,3,1,9,379.45,1695.71,5096.39,3,100.0,Single-cycle candidate
+314,3,1,9,370.83,4274.1,16457.94,3,100.0,Single-cycle candidate
+9,3,1,7,343.94,2960.94,5414.3,3,100.0,Single-cycle candidate
+321,3,1,10,343.38,2589.45,9025.23,3,100.0,Single-cycle candidate
+209,3,1,5,311.81,2543.61,8376.02,3,100.0,Single-cycle candidate
+95,3,1,3,279.2,5020.75,6347.65,3,100.0,Single-cycle candidate
+113,3,1,7,261.54,3325.8,12600.07,2,66.67,Single-cycle candidate

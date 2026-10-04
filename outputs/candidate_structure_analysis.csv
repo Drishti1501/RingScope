@@ -1,0 +1,375 @@
+candidate_id,account_count,cycle_count,highest_account_participation,accounts_in_multiple_cycles,highest_account_participation_share,repeat_account_ratio,exploratory_structure_type
+1,3,1,1,0,,,Not applicable - single cycle
+2,6,6,5,4,83.33333333333334,66.66666666666666,Highly concentrated
+3,4,2,2,2,100.0,50.0,Highly concentrated
+4,4,2,2,2,100.0,50.0,Highly concentrated
+5,36,35,23,17,65.71428571428571,47.22222222222222,Highly concentrated
+6,3,1,1,0,,,Not applicable - single cycle
+7,3,1,1,0,,,Not applicable - single cycle
+8,4,2,2,2,100.0,50.0,Highly concentrated
+9,3,1,1,0,,,Not applicable - single cycle
+10,3,1,1,0,,,Not applicable - single cycle
+11,44,45,18,22,40.0,50.0,Moderately concentrated
+12,3,1,1,0,,,Not applicable - single cycle
+13,4,2,2,2,100.0,50.0,Highly concentrated
+14,5,6,4,5,66.66666666666666,100.0,Highly concentrated
+15,3,1,1,0,,,Not applicable - single cycle
+16,3,1,1,0,,,Not applicable - single cycle
+17,3,1,1,0,,,Not applicable - single cycle
+18,3,1,1,0,,,Not applicable - single cycle
+19,4,2,2,2,100.0,50.0,Highly concentrated
+20,3,1,1,0,,,Not applicable - single cycle
+21,4,2,2,2,100.0,50.0,Highly concentrated
+22,3,1,1,0,,,Not applicable - single cycle
+23,3,1,1,0,,,Not applicable - single cycle
+24,4,2,2,2,100.0,50.0,Highly concentrated
+25,3,1,1,0,,,Not applicable - single cycle
+26,4,2,2,2,100.0,50.0,Highly concentrated
+27,3,1,1,0,,,Not applicable - single cycle
+28,3,1,1,0,,,Not applicable - single cycle
+29,3,1,1,0,,,Not applicable - single cycle
+30,3,1,1,0,,,Not applicable - single cycle
+31,3,1,1,0,,,Not applicable - single cycle
+32,3,1,1,0,,,Not applicable - single cycle
+33,3,1,1,0,,,Not applicable - single cycle
+34,3,1,1,0,,,Not applicable - single cycle
+35,3,1,1,0,,,Not applicable - single cycle
+36,6,4,4,3,100.0,50.0,Highly concentrated
+37,3,1,1,0,,,Not applicable - single cycle
+38,3,1,1,0,,,Not applicable - single cycle
+39,3,1,1,0,,,Not applicable - single cycle
+40,4,2,2,2,100.0,50.0,Highly concentrated
+41,3,1,1,0,,,Not applicable - single cycle
+42,3,1,1,0,,,Not applicable - single cycle
+43,4,2,2,2,100.0,50.0,Highly concentrated
+44,3,1,1,0,,,Not applicable - single cycle
+45,3,1,1,0,,,Not applicable - single cycle
+46,4,2,2,2,100.0,50.0,Highly concentrated
+47,4,2,2,2,100.0,50.0,Highly concentrated
+48,4,2,2,2,100.0,50.0,Highly concentrated
+49,4,2,2,2,100.0,50.0,Highly concentrated
+50,3,1,1,0,,,Not applicable - single cycle
+51,3,1,1,0,,,Not applicable - single cycle
+52,3,1,1,0,,,Not applicable - single cycle
+53,4,2,2,2,100.0,50.0,Highly concentrated
+54,3,1,1,0,,,Not applicable - single cycle
+55,3,1,1,0,,,Not applicable - single cycle
+56,3,1,1,0,,,Not applicable - single cycle
+57,3,1,1,0,,,Not applicable - single cycle
+58,3,1,1,0,,,Not applicable - single cycle
+59,3,1,1,0,,,Not applicable - single cycle
+60,3,1,1,0,,,Not applicable - single cycle
+61,3,1,1,0,,,Not applicable - single cycle
+62,3,1,1,0,,,Not applicable - single cycle
+63,3,1,1,0,,,Not applicable - single cycle
+64,4,2,2,2,100.0,50.0,Highly concentrated
+65,5,3,3,3,100.0,60.0,Highly concentrated
+66,4,2,2,2,100.0,50.0,Highly concentrated
+67,3,1,1,0,,,Not applicable - single cycle
+68,3,1,1,0,,,Not applicable - single cycle
+69,3,1,1,0,,,Not applicable - single cycle
+70,4,2,2,2,100.0,50.0,Highly concentrated
+71,5,3,3,3,100.0,60.0,Highly concentrated
+72,3,1,1,0,,,Not applicable - single cycle
+73,3,1,1,0,,,Not applicable - single cycle
+74,3,1,1,0,,,Not applicable - single cycle
+75,3,1,1,0,,,Not applicable - single cycle
+76,5,3,3,3,100.0,60.0,Highly concentrated
+77,3,1,1,0,,,Not applicable - single cycle
+78,3,1,1,0,,,Not applicable - single cycle
+79,5,3,3,3,100.0,60.0,Highly concentrated
+80,3,1,1,0,,,Not applicable - single cycle
+81,3,1,1,0,,,Not applicable - single cycle
+82,3,1,1,0,,,Not applicable - single cycle
+83,3,1,1,0,,,Not applicable - single cycle
+84,3,1,1,0,,,Not applicable - single cycle
+85,4,2,2,2,100.0,50.0,Highly concentrated
+86,5,3,3,3,100.0,60.0,Highly concentrated
+87,3,1,1,0,,,Not applicable - single cycle
+88,3,1,1,0,,,Not applicable - single cycle
+89,3,1,1,0,,,Not applicable - single cycle
+90,8,6,5,5,83.33333333333334,62.5,Highly concentrated
+91,3,1,1,0,,,Not applicable - single cycle
+92,4,2,2,2,100.0,50.0,Highly concentrated
+93,3,1,1,0,,,Not applicable - single cycle
+94,3,1,1,0,,,Not applicable - single cycle
+95,3,1,1,0,,,Not applicable - single cycle
+96,3,1,1,0,,,Not applicable - single cycle
+97,4,2,2,2,100.0,50.0,Highly concentrated
+98,3,1,1,0,,,Not applicable - single cycle
+99,3,1,1,0,,,Not applicable - single cycle
+100,3,1,1,0,,,Not applicable - single cycle
+101,3,1,1,0,,,Not applicable - single cycle
+102,3,1,1,0,,,Not applicable - single cycle
+103,3,1,1,0,,,Not applicable - single cycle
+104,4,2,2,2,100.0,50.0,Highly concentrated
+105,4,2,2,2,100.0,50.0,Highly concentrated
+106,3,1,1,0,,,Not applicable - single cycle
+107,3,1,1,0,,,Not applicable - single cycle
+108,3,1,1,0,,,Not applicable - single cycle
+109,4,2,2,2,100.0,50.0,Highly concentrated
+110,3,1,1,0,,,Not applicable - single cycle
+111,3,1,1,0,,,Not applicable - single cycle
+112,3,1,1,0,,,Not applicable - single cycle
+113,3,1,1,0,,,Not applicable - single cycle
+114,3,1,1,0,,,Not applicable - single cycle
+115,3,1,1,0,,,Not applicable - single cycle
+116,4,2,2,2,100.0,50.0,Highly concentrated
+117,3,1,1,0,,,Not applicable - single cycle
+118,3,1,1,0,,,Not applicable - single cycle
+119,3,1,1,0,,,Not applicable - single cycle
+120,6,4,4,3,100.0,50.0,Highly concentrated
+121,3,1,1,0,,,Not applicable - single cycle
+122,3,1,1,0,,,Not applicable - single cycle
+123,3,1,1,0,,,Not applicable - single cycle
+124,3,1,1,0,,,Not applicable - single cycle
+125,4,2,2,2,100.0,50.0,Highly concentrated
+126,3,1,1,0,,,Not applicable - single cycle
+127,4,2,2,2,100.0,50.0,Highly concentrated
+128,3,1,1,0,,,Not applicable - single cycle
+129,3,1,1,0,,,Not applicable - single cycle
+130,3,1,1,0,,,Not applicable - single cycle
+131,3,1,1,0,,,Not applicable - single cycle
+132,3,1,1,0,,,Not applicable - single cycle
+133,5,4,4,5,100.0,100.0,Highly concentrated
+134,3,1,1,0,,,Not applicable - single cycle
+135,3,1,1,0,,,Not applicable - single cycle
+136,4,2,2,2,100.0,50.0,Highly concentrated
+137,3,1,1,0,,,Not applicable - single cycle
+138,3,1,1,0,,,Not applicable - single cycle
+139,4,2,2,2,100.0,50.0,Highly concentrated
+140,3,1,1,0,,,Not applicable - single cycle
+141,6,4,3,4,75.0,66.66666666666666,Highly concentrated
+142,3,1,1,0,,,Not applicable - single cycle
+143,3,1,1,0,,,Not applicable - single cycle
+144,5,3,3,3,100.0,60.0,Highly concentrated
+145,3,1,1,0,,,Not applicable - single cycle
+146,3,1,1,0,,,Not applicable - single cycle
+147,5,3,3,3,100.0,60.0,Highly concentrated
+148,3,1,1,0,,,Not applicable - single cycle
+149,4,2,2,2,100.0,50.0,Highly concentrated
+150,3,1,1,0,,,Not applicable - single cycle
+151,3,1,1,0,,,Not applicable - single cycle
+152,3,1,1,0,,,Not applicable - single cycle
+153,3,1,1,0,,,Not applicable - single cycle
+154,3,1,1,0,,,Not applicable - single cycle
+155,3,1,1,0,,,Not applicable - single cycle
+156,3,1,1,0,,,Not applicable - single cycle
+157,3,1,1,0,,,Not applicable - single cycle
+158,3,1,1,0,,,Not applicable - single cycle
+159,4,2,2,2,100.0,50.0,Highly concentrated
+160,3,1,1,0,,,Not applicable - single cycle
+161,6,4,4,3,100.0,50.0,Highly concentrated
+162,3,1,1,0,,,Not applicable - single cycle
+163,3,1,1,0,,,Not applicable - single cycle
+164,3,1,1,0,,,Not applicable - single cycle
+165,3,1,1,0,,,Not applicable - single cycle
+166,3,1,1,0,,,Not applicable - single cycle
+167,3,1,1,0,,,Not applicable - single cycle
+168,3,1,1,0,,,Not applicable - single cycle
+169,3,1,1,0,,,Not applicable - single cycle
+170,3,1,1,0,,,Not applicable - single cycle
+171,3,1,1,0,,,Not applicable - single cycle
+172,4,2,2,2,100.0,50.0,Highly concentrated
+173,3,1,1,0,,,Not applicable - single cycle
+174,3,1,1,0,,,Not applicable - single cycle
+175,4,2,2,2,100.0,50.0,Highly concentrated
+176,3,1,1,0,,,Not applicable - single cycle
+177,3,1,1,0,,,Not applicable - single cycle
+178,3,1,1,0,,,Not applicable - single cycle
+179,3,1,1,0,,,Not applicable - single cycle
+180,3,1,1,0,,,Not applicable - single cycle
+181,3,1,1,0,,,Not applicable - single cycle
+182,3,1,1,0,,,Not applicable - single cycle
+183,4,2,2,2,100.0,50.0,Highly concentrated
+184,3,1,1,0,,,Not applicable - single cycle
+185,4,2,2,2,100.0,50.0,Highly concentrated
+186,3,1,1,0,,,Not applicable - single cycle
+187,4,2,2,2,100.0,50.0,Highly concentrated
+188,3,1,1,0,,,Not applicable - single cycle
+189,3,1,1,0,,,Not applicable - single cycle
+190,3,1,1,0,,,Not applicable - single cycle
+191,3,1,1,0,,,Not applicable - single cycle
+192,3,1,1,0,,,Not applicable - single cycle
+193,3,1,1,0,,,Not applicable - single cycle
+194,3,1,1,0,,,Not applicable - single cycle
+195,3,1,1,0,,,Not applicable - single cycle
+196,3,1,1,0,,,Not applicable - single cycle
+197,3,1,1,0,,,Not applicable - single cycle
+198,4,2,2,2,100.0,50.0,Highly concentrated
+199,4,2,2,2,100.0,50.0,Highly concentrated
+200,3,1,1,0,,,Not applicable - single cycle
+201,3,1,1,0,,,Not applicable - single cycle
+202,3,1,1,0,,,Not applicable - single cycle
+203,3,1,1,0,,,Not applicable - single cycle
+204,3,1,1,0,,,Not applicable - single cycle
+205,3,1,1,0,,,Not applicable - single cycle
+206,3,1,1,0,,,Not applicable - single cycle
+207,4,2,2,2,100.0,50.0,Highly concentrated
+208,4,2,2,2,100.0,50.0,Highly concentrated
+209,3,1,1,0,,,Not applicable - single cycle
+210,3,1,1,0,,,Not applicable - single cycle
+211,3,1,1,0,,,Not applicable - single cycle
+212,3,1,1,0,,,Not applicable - single cycle
+213,3,1,1,0,,,Not applicable - single cycle
+214,3,1,1,0,,,Not applicable - single cycle
+215,3,1,1,0,,,Not applicable - single cycle
+216,6,4,4,3,100.0,50.0,Highly concentrated
+217,3,1,1,0,,,Not applicable - single cycle
+218,3,1,1,0,,,Not applicable - single cycle
+219,3,1,1,0,,,Not applicable - single cycle
+220,3,1,1,0,,,Not applicable - single cycle
+221,3,1,1,0,,,Not applicable - single cycle
+222,3,1,1,0,,,Not applicable - single cycle
+223,3,1,1,0,,,Not applicable - single cycle
+224,3,1,1,0,,,Not applicable - single cycle
+225,3,1,1,0,,,Not applicable - single cycle
+226,4,2,2,2,100.0,50.0,Highly concentrated
+227,3,1,1,0,,,Not applicable - single cycle
+228,3,1,1,0,,,Not applicable - single cycle
+229,3,1,1,0,,,Not applicable - single cycle
+230,3,1,1,0,,,Not applicable - single cycle
+231,3,1,1,0,,,Not applicable - single cycle
+232,3,1,1,0,,,Not applicable - single cycle
+233,3,1,1,0,,,Not applicable - single cycle
+234,3,1,1,0,,,Not applicable - single cycle
+235,3,1,1,0,,,Not applicable - single cycle
+236,3,1,1,0,,,Not applicable - single cycle
+237,3,1,1,0,,,Not applicable - single cycle
+238,3,1,1,0,,,Not applicable - single cycle
+239,3,1,1,0,,,Not applicable - single cycle
+240,3,1,1,0,,,Not applicable - single cycle
+241,3,1,1,0,,,Not applicable - single cycle
+242,4,3,3,4,100.0,100.0,Highly concentrated
+243,3,1,1,0,,,Not applicable - single cycle
+244,3,1,1,0,,,Not applicable - single cycle
+245,3,1,1,0,,,Not applicable - single cycle
+246,3,1,1,0,,,Not applicable - single cycle
+247,3,1,1,0,,,Not applicable - single cycle
+248,3,1,1,0,,,Not applicable - single cycle
+249,3,1,1,0,,,Not applicable - single cycle
+250,3,1,1,0,,,Not applicable - single cycle
+251,3,1,1,0,,,Not applicable - single cycle
+252,3,1,1,0,,,Not applicable - single cycle
+253,3,1,1,0,,,Not applicable - single cycle
+254,3,1,1,0,,,Not applicable - single cycle
+255,3,1,1,0,,,Not applicable - single cycle
+256,3,1,1,0,,,Not applicable - single cycle
+257,3,1,1,0,,,Not applicable - single cycle
+258,3,1,1,0,,,Not applicable - single cycle
+259,3,1,1,0,,,Not applicable - single cycle
+260,4,2,2,2,100.0,50.0,Highly concentrated
+261,3,1,1,0,,,Not applicable - single cycle
+262,3,1,1,0,,,Not applicable - single cycle
+263,4,2,2,2,100.0,50.0,Highly concentrated
+264,3,1,1,0,,,Not applicable - single cycle
+265,3,1,1,0,,,Not applicable - single cycle
+266,3,1,1,0,,,Not applicable - single cycle
+267,3,1,1,0,,,Not applicable - single cycle
+268,3,1,1,0,,,Not applicable - single cycle
+269,3,1,1,0,,,Not applicable - single cycle
+270,3,1,1,0,,,Not applicable - single cycle
+271,3,1,1,0,,,Not applicable - single cycle
+272,3,1,1,0,,,Not applicable - single cycle
+273,3,1,1,0,,,Not applicable - single cycle
+274,3,1,1,0,,,Not applicable - single cycle
+275,3,1,1,0,,,Not applicable - single cycle
+276,3,1,1,0,,,Not applicable - single cycle
+277,3,1,1,0,,,Not applicable - single cycle
+278,3,1,1,0,,,Not applicable - single cycle
+279,3,1,1,0,,,Not applicable - single cycle
+280,3,1,1,0,,,Not applicable - single cycle
+281,3,1,1,0,,,Not applicable - single cycle
+282,3,1,1,0,,,Not applicable - single cycle
+283,3,1,1,0,,,Not applicable - single cycle
+284,3,1,1,0,,,Not applicable - single cycle
+285,3,1,1,0,,,Not applicable - single cycle
+286,3,1,1,0,,,Not applicable - single cycle
+287,3,1,1,0,,,Not applicable - single cycle
+288,3,1,1,0,,,Not applicable - single cycle
+289,3,1,1,0,,,Not applicable - single cycle
+290,3,1,1,0,,,Not applicable - single cycle
+291,3,1,1,0,,,Not applicable - single cycle
+292,4,2,2,2,100.0,50.0,Highly concentrated
+293,3,1,1,0,,,Not applicable - single cycle
+294,3,1,1,0,,,Not applicable - single cycle
+295,3,1,1,0,,,Not applicable - single cycle
+296,3,1,1,0,,,Not applicable - single cycle
+297,3,1,1,0,,,Not applicable - single cycle
+298,3,1,1,0,,,Not applicable - single cycle
+299,3,1,1,0,,,Not applicable - single cycle
+300,4,2,2,2,100.0,50.0,Highly concentrated
+301,3,1,1,0,,,Not applicable - single cycle
+302,3,1,1,0,,,Not applicable - single cycle
+303,3,1,1,0,,,Not applicable - single cycle
+304,3,1,1,0,,,Not applicable - single cycle
+305,3,1,1,0,,,Not applicable - single cycle
+306,3,1,1,0,,,Not applicable - single cycle
+307,3,1,1,0,,,Not applicable - single cycle
+308,3,1,1,0,,,Not applicable - single cycle
+309,3,1,1,0,,,Not applicable - single cycle
+310,3,1,1,0,,,Not applicable - single cycle
+311,3,1,1,0,,,Not applicable - single cycle
+312,4,2,2,2,100.0,50.0,Highly concentrated
+313,3,1,1,0,,,Not applicable - single cycle
+314,3,1,1,0,,,Not applicable - single cycle
+315,3,1,1,0,,,Not applicable - single cycle
+316,3,1,1,0,,,Not applicable - single cycle
+317,3,1,1,0,,,Not applicable - single cycle
+318,3,1,1,0,,,Not applicable - single cycle
+319,4,2,2,2,100.0,50.0,Highly concentrated
+320,3,1,1,0,,,Not applicable - single cycle
+321,3,1,1,0,,,Not applicable - single cycle
+322,3,1,1,0,,,Not applicable - single cycle
+323,3,1,1,0,,,Not applicable - single cycle
+324,3,1,1,0,,,Not applicable - single cycle
+325,3,1,1,0,,,Not applicable - single cycle
+326,3,1,1,0,,,Not applicable - single cycle
+327,3,1,1,0,,,Not applicable - single cycle
+328,3,1,1,0,,,Not applicable - single cycle
+329,3,1,1,0,,,Not applicable - single cycle
+330,3,1,1,0,,,Not applicable - single cycle
+331,3,1,1,0,,,Not applicable - single cycle
+332,3,1,1,0,,,Not applicable - single cycle
+333,3,1,1,0,,,Not applicable - single cycle
+334,3,1,1,0,,,Not applicable - single cycle
+335,3,1,1,0,,,Not applicable - single cycle
+336,3,1,1,0,,,Not applicable - single cycle
+337,3,1,1,0,,,Not applicable - single cycle
+338,3,1,1,0,,,Not applicable - single cycle
+339,3,1,1,0,,,Not applicable - single cycle
+340,3,1,1,0,,,Not applicable - single cycle
+341,3,1,1,0,,,Not applicable - single cycle
+342,3,1,1,0,,,Not applicable - single cycle
+343,3,1,1,0,,,Not applicable - single cycle
+344,3,1,1,0,,,Not applicable - single cycle
+345,3,1,1,0,,,Not applicable - single cycle
+346,3,1,1,0,,,Not applicable - single cycle
+347,3,1,1,0,,,Not applicable - single cycle
+348,3,1,1,0,,,Not applicable - single cycle
+349,3,1,1,0,,,Not applicable - single cycle
+350,3,1,1,0,,,Not applicable - single cycle
+351,3,1,1,0,,,Not applicable - single cycle
+352,3,1,1,0,,,Not applicable - single cycle
+353,3,1,1,0,,,Not applicable - single cycle
+354,3,1,1,0,,,Not applicable - single cycle
+355,3,1,1,0,,,Not applicable - single cycle
+356,3,1,1,0,,,Not applicable - single cycle
+357,3,1,1,0,,,Not applicable - single cycle
+358,3,1,1,0,,,Not applicable - single cycle
+359,3,1,1,0,,,Not applicable - single cycle
+360,3,1,1,0,,,Not applicable - single cycle
+361,3,1,1,0,,,Not applicable - single cycle
+362,3,1,1,0,,,Not applicable - single cycle
+363,3,1,1,0,,,Not applicable - single cycle
+364,3,1,1,0,,,Not applicable - single cycle
+365,3,1,1,0,,,Not applicable - single cycle
+366,3,1,1,0,,,Not applicable - single cycle
+367,3,1,1,0,,,Not applicable - single cycle
+368,3,1,1,0,,,Not applicable - single cycle
+369,3,1,1,0,,,Not applicable - single cycle
+370,3,1,1,0,,,Not applicable - single cycle
+371,3,1,1,0,,,Not applicable - single cycle
+372,3,1,1,0,,,Not applicable - single cycle
+373,3,1,1,0,,,Not applicable - single cycle
+374,3,1,1,0,,,Not applicable - single cycle
